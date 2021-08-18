@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "HelloWorld",
+    "name": "Time Table",
     "version": "1.0",
     "description": "This Is just a basic helloworld extension step towards a extension developer...",
     "icons":{
